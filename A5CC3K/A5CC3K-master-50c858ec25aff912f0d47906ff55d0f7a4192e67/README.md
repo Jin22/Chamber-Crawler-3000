@@ -1,6 +1,6 @@
 # CC3K project
 CC3K is an abbreviation for Chamber Crawler 3000 and is a command line game programmed with C++.
-The goal of this game is to get the highest score possible. The score can be increased by earning golds throughout the game.
+The goal of this game is to get the highest score possible. The score can be increased by earning golds throughout the game. Make sure to go upstairs to end the game.
 # Player races
 s - shade, t - troll, d - drow, v - vampire, g - goblin.                                                      
 The default player character race is a shade that has starting stats (125 HP, 25 Atk, 25 Def). However,
