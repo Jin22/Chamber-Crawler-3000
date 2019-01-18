@@ -19,12 +19,6 @@ takes priority over player character's ability to never miss).
 # How to move
 ea - player goes East, we - player goes West, so - player goes South, no - player goes North
 # Items(Potions)
-Restore health (RH): restore up to 10 HP (cannot exceed maximum prescribed by race)
- Boost Atk (BA): increase ATK by 5
- Boost Def (BD): increase Def by 5
-Negative Potions:
- Poison health (PH): lose up to 10 HP (cannot fall below 0 HP)
- Wound Atk (WA): decrease Atk by 5
- Wound Def (WD): decrease Def by 5
+Restore health (RH): restore up to 10 HP (cannot exceed maximum prescribed by race)                                                      Boost Atk (BA): increase ATK by 5                                                                                                           Boost Def (BD): increase Def by 5                                                                                                    Negative Potions:                                                                                                                      Poison health (PH): lose up to 10 HP (cannot fall below 0 HP)                                                                            Wound Atk (WA): decrease Atk by 5                                                                                                       Wound Def (WD): decrease Def by 5
 
 
